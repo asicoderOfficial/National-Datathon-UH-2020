@@ -4,6 +4,9 @@ This repository contains the final work sent to the organization of the competit
 ### Astralaria.pdf
 PDF file made by using LaTeX, explaining the problem, previous work done and the final model presented. Written in spanish.
 
+### Fase Nacional. Comentarios Astralaria.pdf
+PDF file that constatates our final position and accuracy result. It also provides some possible improvements from the organization.
+
 ### UPV_Astralaria.txt
 Text file containing the final prediction.
 
