@@ -15,6 +15,6 @@ Py file with the final model. We would love to have presented a Jupyter Notebook
 
 The rest was also sent to support our work and show how much effort we had put in it.
 
-Finally, we could not get to the top 3, but qualified for the final national round, becoming the best team in our university. If you want to check it, open the 'Certificate.pdf' file that proves it.
+Finally, we got to the 4th national place!
 
 Thank you for checking my repo!
